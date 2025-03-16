@@ -1,0 +1,14 @@
+{
+  "name": "ToonGod Extensions",
+  "version": 1,
+  "sources": [
+    {
+      "name": "ToonGod",
+      "pkg": "eu.kanade.tachiyomi.extension.en.toongod",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "apk": "https://yourusername.github.io/toongod-extension/ToonGod.apk"
+    }
+  ]
+}
